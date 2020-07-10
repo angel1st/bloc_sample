@@ -17,21 +17,21 @@ class PlantStateNameSet extends PlantState {
   const PlantStateNameSet({@required PlantsCompanion plantsCompanion})
       : super(plantsCompanion: plantsCompanion);
   @override
-  List<Object> get props => [plantsCompanion];
+  List<Object> get props => [plantsCompanion.name];
 }
 
 class PlantStateImageSet extends PlantState {
   const PlantStateImageSet({@required PlantsCompanion plantsCompanion})
       : super(plantsCompanion: plantsCompanion);
   @override
-  List<Object> get props => [plantsCompanion];
+  List<Object> get props => [plantsCompanion.image];
 }
 
 class PlantStateImageIsLoading extends PlantState {
   const PlantStateImageIsLoading({@required PlantsCompanion plantsCompanion})
       : super(plantsCompanion: plantsCompanion);
   @override
-  List<Object> get props => [];
+  List<Object> get props => [plantsCompanion.image];
 }
 
 class PlantStateIsSaving extends PlantState {
