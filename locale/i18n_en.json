@@ -1,0 +1,22 @@
+{
+  "app_title": "Plant Care Reminder",
+  "add_plant": "Add Plant",
+  "settings": "Settings",
+  "theme_color": "Theme Color",
+  "select_color": "Select Color",
+  "auto_brightness_mode": "Use the device's dark mode",
+  "theme_brightness": "Theme Brightness",
+  "light": "Light",
+  "dark": "Dark",
+  "language": "Language",
+  "language_en": "English",
+  "language_bg": "Bulgarian",
+  "language_es": "Spanish",
+  "language_ru": "Russian",
+  "language_it": "Italian",
+  "language_fr": "French",
+  "language_de": "German",
+  "language_pt": "Portuguese",
+  "name": "Name",
+  "name_missing": "Name cannot be empty!"
+}

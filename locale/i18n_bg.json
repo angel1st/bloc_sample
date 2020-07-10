@@ -1,0 +1,22 @@
+{
+  "app_title": "Грижа за растенията",
+  "add_plant": "Добави растение",
+  "settings": "Настройки",
+  "theme_color": "Цвят на темата",
+  "select_color": "Изберете цвят",
+  "auto_brightness_mode": "Използвай нощния режим на телефона",
+  "theme_brightness": "Яркост на темата",
+  "light": "Светла",
+  "dark": "Тъмна",
+  "language": "Език",
+  "language_en": "Английски",
+  "language_bg": "Български",
+  "language_es": "Испански",
+  "language_ru": "Руски",
+  "language_it": "Италиански",
+  "language_fr": "Френски",
+  "language_de": "Немски",
+  "language_pt": "Португалски",
+  "name": "Име",
+  "name_missing": "Името не може да липсва!"
+}
